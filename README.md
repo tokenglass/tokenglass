@@ -1,4 +1,8 @@
-### Hi there 👋
+# TokenGlass
+
+TokenGlass builds trust in cryptoasset investment through clarity.
+
+Visit [token.glass](//token.glass)
 
 <!--
 **tokenglass/tokenglass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
